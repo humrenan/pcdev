@@ -1,1 +1,76 @@
 
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: #529CB9;
+            font-family: sans-serif;
+            text-align: center;
+        }
+        h1{
+            background-color: rosybrown;
+        }
+    </style>
+</head>
+<body>
+    <h1>Digital House</h1>
+    <h2>Digital House</h2>
+    <h3>Digital House</h3>
+    <h4>Digital House</h4>
+    <h5>Digital House</h5>
+    <h6>Digital House</h6>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur eos eligendi quae laboriosam repellendus!
+        Inventore aliquam numquam, magnam sequi quod rem voluptatibus delectus! Quibusdam sed vel sit blanditiis
+        eligendi esse.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt architecto consequatur exercitationem
+        perferendis porro tempore, sint suscipit ullam, officia ducimus autem amet illum eligendi adipisci inventore
+        minima aspernatur, odit harum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione non corrupti consequatur ipsam possimus, aut
+        consequuntur exercitationem sapiente odit fugiat maiores, nostrum nisi! Ipsum, impedit quo distinctio maxime
+        beatae aliquam!</p>
+    <ol type="I" start="5">
+        <li>Morango</li>
+        <li>Pêra</li>
+        <li>Uva</li>
+        <li>Pêssego</li>
+        <li>Maçã</li>
+    </ol>
+    <ul type="circle">
+        <!-- disc, square, circle -->
+        <li>Cebola</li>
+        <li>Tomate</li>
+        <li>Pimentão</li>
+        <li>Cenoura</li>
+        <li>Couve</li>
+    </ul>
+    <ul>
+        <li>Frutas
+            <ul>
+                <li>Morango</li>
+                <li>Pêra</li>
+                <li>Uva</li>
+                <li>Pêssego</li>
+                <li>Maçã</li>
+            </ul>
+        </li>
+        <li>Verduras
+            <ul>
+                <li>Cebola</li>
+                <li>Tomate</li>
+                <li>Pimentão</li>
+                <li>Cenoura</li>
+                <li>Couve</li>
+            </ul>
+        </li>
+    </ul>
+    <p>
+        <ul>
+            <li>Item 1</li>
+        </ul>
+    </p>
+</body>
+</html>
