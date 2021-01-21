@@ -1,0 +1,17 @@
+.carnes{
+    max-height: 400px;
+}
+
+a{
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+.logo img{
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 50%;
+}
