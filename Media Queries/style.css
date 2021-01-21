@@ -1,0 +1,42 @@
+.caixa{
+    border: solid 1px #666;
+    padding: 5px 10px;
+    margin: 40px;
+}
+
+.area-visivel{
+    color: #666;
+    display: none;
+}
+
+@media screen and (max-width: 600px){
+.um {
+        background: #f9c;
+    }
+
+    .lt-600{
+        display: inline-block;
+    }
+}
+
+
+@media screen and (min-width: 900px){
+.dois {
+        background: orange;
+    }
+
+    .gt-900{
+        display: inline-block;
+    }
+}
+
+
+@media (min-width:600px) and (max-width: 900px){
+.tres {
+        background: blue;
+    }
+
+    .bt-600-900{
+        display: inline-block;
+    }
+}
